@@ -1,6 +1,5 @@
 # Time Series Analysis ⏰
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/CrimeRate_Prediction_ML/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 
 This code helps you to understand the Machine Learning basics and TSA concept.
 
